@@ -1,0 +1,6 @@
+[submodule "csv/jhu_covid19"]
+	path = csv/jhu_covid19
+	url = https://github.com/CSSEGISandData/COVID-19.git
+[submodule "csv/nytimes_covid19"]
+	path = csv/nytimes_covid19
+	url = https://github.com/nytimes/covid-19-data.git
