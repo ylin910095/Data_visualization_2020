@@ -4,3 +4,6 @@
 [submodule "csv/nytimes_covid19"]
 	path = csv/nytimes_covid19
 	url = https://github.com/nytimes/covid-19-data.git
+[submodule "csv/covid-19-illinois-data"]
+	path = csv/covid-19-illinois-data
+	url = https://github.com/rcc-uchicago/covid-19-illinois-data.git
